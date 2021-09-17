@@ -280,7 +280,7 @@ body {
     font-size: 20px;
   }
   .hero_cv {
-    font-size: 15px;
+    font-size: 20px;
   }
   .photo {
     border-radius: 50%;
@@ -305,7 +305,7 @@ body {
     justify-content: center;
   }
  .about_me_description {
-    font-size: 20px;
+    font-size: 22px;
  }
  .network_logo {
    width: 25px;
@@ -325,7 +325,7 @@ body {
  .button {
    margin-top: 5%;
    padding: 12px 25px;
-   font-size: 20px;
+   font-size: 22px;
    text-align: center;
    margin-bottom: 10px;
    
@@ -334,7 +334,7 @@ body {
     height: 80%;
   }
  .small_description {
-   font-size: 17px;
+   font-size: 22px;
  }
  .skills {
    display: grid;
