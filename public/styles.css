@@ -114,6 +114,8 @@ body {
   margin: 0 auto;
   margin-top: 5px;
   margin-bottom: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 .card_img {
   width: 100%;
@@ -305,11 +307,21 @@ body {
  .projects {
    flex-direction: column-reverse;
  }
+ .card {
+   width: 85%;
+   margin: 0 auto;
+ }
+ .button_container {
+   display: flex;
+   justify-content: center;
+ }
  .button {
-   margin-left: 3%;
    margin-top: 5%;
-   padding: 5px 15px;
-   font-size: 14px;
+   padding: 12px 25px;
+   font-size: 20px;
+   text-align: center;
+   margin-bottom: 10px;
+   
   }
   .contact_button {
     height: 80%;
