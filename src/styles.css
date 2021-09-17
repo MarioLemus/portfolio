@@ -46,6 +46,7 @@ body {
 }
 .cv_downloader:hover {
   color: #904e95;
+  text-decoration: underline;
 }
 .hero_cv {
   margin-top: 2em;
