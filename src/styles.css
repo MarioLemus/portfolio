@@ -47,7 +47,6 @@ body {
 .cv_img {
   height: 40px;
   width: 50px;
-  object-fit: cover;
 }
 .hero_cv {
   margin-top: 2em;
