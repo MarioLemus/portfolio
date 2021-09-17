@@ -145,7 +145,7 @@ body {
   border: solid 2px rgba(194, 194, 194, 0.2);
   box-shadow: 0 3px 25px 5px rgba(0, 0, 0, 0.2);
   display: inline-block;
-  /* margin: 5px; */
+  margin: 5px;
 }
 .button:hover {
   background-color: rgb(233, 100, 67, 0.5);
@@ -277,7 +277,7 @@ body {
     font-size: 30px;
   }
   .hero_logo {
-    font-size: 20px;
+    font-size: 25px;
   }
   .hero_cv {
     font-size: 20px;
